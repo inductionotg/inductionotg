@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ritesh Sinha
 - 👀 I’m interested in Full Stack developer
-- 🌱 I’m currently learning Django,Nodejs,React,Javascript
+- 🌱 Experienced FullStack Developer with 3+years in JavaScript, React, Redux and NodeJS. Specializes in application development, testing and ensuring operational stability. Proficient problem solver dedicated to delivering high-quality software solution.
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ritesh2000@gmail.com or 8117808825
 
