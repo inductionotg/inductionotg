@@ -42,8 +42,6 @@ A flight booking application with a React customer/admin interface and five back
 - Built booking notifications with a **transactional outbox**, durable RabbitMQ queues, duplicate handling, delayed retries, dead-lettering, and SMTP delivery.
 - Instrumented services with structured logs, trace propagation, **Prometheus metrics and Grafana dashboards**; used k6, outage tests, and CPU profiling to investigate performance bottlenecks.
 
-*The repository documents local test results and remaining capacity limits; the 200 requests/second workload is still an unresolved scaling target.*
-
 ### 🛒 OrderFlow — E-Commerce Saga
 
 **React · Tailwind CSS · Node.js · Express · PostgreSQL · Prisma · RabbitMQ · Redis · Docker**
